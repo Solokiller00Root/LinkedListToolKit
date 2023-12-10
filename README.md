@@ -1,4 +1,8 @@
-Welcome to the Linked List Toolkit project! This C-based toolkit provides a robust implementation of a singly linked list, designed for managing student records efficiently. Below, you'll find an improved description highlighting its key features and instructions for use.
+Welcome to the Linked List Toolkit project! 
+
+This C-based toolkit provides a robust implementation of a singly linked list, designed for managing student records efficiently.
+
+Below, you'll find an improved description highlighting its key features and instructions for use.
 
 Key Features:
 
