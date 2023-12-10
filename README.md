@@ -15,6 +15,3 @@ Run: Execute the compiled program, and follow the on-screen menu to add students
 
 Explore and Learn: Use this project as a learning resource to understand linked list operations and enhance your knowledge of dynamic data structures in C.
 
-Contributions:
-
-Contributions and improvements to the code are welcome. Feel free to fork the repository, make changes, and submit pull requests. Make sure to follow the contribution guidelines outlined in the repository.
