@@ -9,9 +9,8 @@ Perform Operations: Choose from a menu to perform various operations on the link
 User-Friendly Interface: The project features a simple command-line interface with a menu-driven system, making it accessible for users to interact with the linked list.
 Usage Instructions:
 
-Compile: Use a C compiler to compile the main program (main.c) and the linked list library (lists.h).
 
-Run: Execute the compiled program, and follow the on-screen menu to add students and perform operations on the linked list.
+Run: Download the source code and execute ./build.sh in your terminal.
 
 Explore and Learn: Use this project as a learning resource to understand linked list operations and enhance your knowledge of dynamic data structures in C.
 
